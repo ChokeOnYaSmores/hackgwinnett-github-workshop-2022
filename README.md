@@ -6,7 +6,7 @@
 <h4>Pull Requests within GitHub</h4>
 <pre>
 - Fork the main repository
-- Make a commit on the forked repository
+- Make a commit on the frked repository
 - Contribute -> open pull request -> now, the owner of the main repository can approve the changes
 </pre>
 
